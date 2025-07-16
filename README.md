@@ -11,4 +11,4 @@ Podstawowe assety znajdują się w folderze: "Content/LevelPrototyping/Meshes".
 
 Logika postaci znajduje się w bluprincie "BP_Carapka": "Content/ThirdPerson/Blueprints".
 
-Interaktywne elementy znajdują się w: ""Content/LevelPrototyping/Blueprints".
+Interaktywne elementy znajdują się w: "Content/LevelPrototyping/Blueprints".
